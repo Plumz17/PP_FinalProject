@@ -4,6 +4,7 @@
 This repository contains our final project for a **Pattern Recognition** course, a video showcasing our paper and presentation file can be accessed throught the link below:
 https://drive.google.com/drive/u/1/folders/1iwVp5xA9V8dKFzVF35RUOQKPHblvdgDB
 
+(Note: Due to a bug, the .ipynb file won't render automatically on github, if you want to open it, please download the file first and then open it in your jupyter notebook editor of your choice)
 ## Contributors
 **Group 3 – Pattern Recognition Course**
 
